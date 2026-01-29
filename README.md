@@ -17,9 +17,13 @@ An interactive physics-based water rocket simulator built using Python and Strea
 - NumPy
 - SciPy
 - Matplotlib
+- Pandas
 
 ## Live Demo
 https://water-rocket-simulation.streamlit.app/
+
+## Report Documentation 
+[Water Rocket Simulator.pdf](https://github.com/user-attachments/files/24945488/Water.Rocket.Simulator.pdf)
 
 ## How to Run Locally
 ```bash
